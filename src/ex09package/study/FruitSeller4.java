@@ -1,6 +1,7 @@
 package ex09package.study;
 
 public class FruitSeller4 {
+	
 		int numOfApple;
 		int myMoney;
 		final int APPLE_PRICE;
