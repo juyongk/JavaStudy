@@ -2,6 +2,11 @@ package ex12inheritance;
 
 import java.util.Scanner;
 
+//import ex17collection.Friend;
+//import ex17collection.FriendInfoHandler;
+//import ex17collection.HighFriend;
+//import ex17collection.UnivFriend;
+
 /*
 친구를 표현한 최상위 클래스로 해당 프로그램에서는 Friend클래스로
 인스턴스 생성은 하지 않는다. 단지 기본정보를 저장하고 상속을 목적으로
